@@ -1,4 +1,6 @@
 #!/mtg/tool/bin/perl
+# Synchronization and control
+# Controlling access: lock()
 use warnings;
 use strict;
 use autodie;

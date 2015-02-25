@@ -1,4 +1,7 @@
 #!/mtg/tool/bin/perl
+
+# Thread Pitfalls: Races
+
 use warnings;
 use strict;
 use autodie;
